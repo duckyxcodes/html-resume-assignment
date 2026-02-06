@@ -4,7 +4,7 @@ A clean, structured resume website built strictly using **HTML5**. This project 
 
 ## 🚀 Live Demo
 You can view the live version of this resume here:
-**[Resume Preview](https://shivam-x-bhat.github.io/html-resume-assignment/)**
+**[Resume Preview](https://duckyxcodes.github.io/html-resume-assignment/)**
 
 ## 🛠️ Setup & Usage Instructions
 Follow these steps to view the project on your own computer:
